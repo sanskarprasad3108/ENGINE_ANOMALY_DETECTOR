@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+train_log.txt
+app_log.txt
+model_artifacts/
+dump_truck_engine_anomaly_dataset (1).csv
